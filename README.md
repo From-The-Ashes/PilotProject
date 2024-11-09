@@ -15,7 +15,8 @@ Would you like to rebuild them now?
 PilotProject could not be compiled. Try rebuilding from source manually.
 ____________________________________________________________________________
 
-This issue has not been reliably solved, though sometimes verifying your Unreal files and restarting the computer will make it work. 
+This typically means you have not installed Visual Studio Community (https://visualstudio.microsoft.com/vs/community/)
+Install, when it asks what packages/functions you want, select Unreal and finish installation. 
 
 Discord server: https://discord.gg/HxHxVSNCDT (Permalink) 
 Do not invite non-members of the project team. This link should only be used by alt accounts or new accounts of existing members. 
