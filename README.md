@@ -1,4 +1,4 @@
-Pilot Project is a Zombs.io-inspired multiplayer top-down wave survival crafting and base-building game. With a light-herted approach to graphic and sound design, and a short timeline for production, the goal of this project is to orient the team toward collaborative game development in a relaxed environment. 
+Pilot Project is a Zombs.io-inspired multiplayer top-down wave survival and base-building game. With a light-hearted approach to graphic and sound design, and a short timeline for production, the goal of this project is to orient the team toward collaborative game development in a relaxed environment. 
 Tools used for development are PaintDotNet, Unreal Engine 5.4, and Visual Studio/VS Code. 
 
 To build: 
